@@ -1,4 +1,4 @@
-# Travelgram - Share Your journey - https://react30-315218.web.app/signup
+# Travelgram - Share Your journey
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
